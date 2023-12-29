@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Jobs\Assessments\JetBrains\DesktopCodeEditor\desktop_code_editor\build\windows\x64\CMakeFiles\546e14ed9c03d78268e684896d17773a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D8D64407-77D3-35B7-BCC5-6B397677906E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/icudtl.dat
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/flutter_windows.dll
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+D:/Jobs/Assessments/JetBrains/DesktopCodeEditor/desktop_code_editor/build/windows/x64/runner/Release/data/app.so

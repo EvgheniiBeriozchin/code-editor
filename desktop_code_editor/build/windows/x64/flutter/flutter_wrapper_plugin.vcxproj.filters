@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Jobs\Assessments\JetBrains\DesktopCodeEditor\desktop_code_editor\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Jobs\Assessments\JetBrains\DesktopCodeEditor\desktop_code_editor\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Jobs\Assessments\JetBrains\DesktopCodeEditor\desktop_code_editor\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Jobs\Assessments\JetBrains\DesktopCodeEditor\desktop_code_editor\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D8D64407-77D3-35B7-BCC5-6B397677906E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{109E6891-268A-3675-8402-88D9A834F9C3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
